@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-MDHMHCR');</script>
+
+<!-- End Google Tag Manager -->
+
+<title>
+
+OpenCorporates :: The Open Database Of The Corporate World
+
+</title>
+
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+
+<meta content='Free and Open Company Data on 205 million companies and corporations in over 130 jurisdictions, including US, UK, Switzerland, Panama...' name='description'>
+
+<meta content='company data,company information,open data,company register,linked data,free data' name='keywords'>
+
+<meta content='width=device-width, initial-scale=1.0' name='viewport'>
+
+<link href='/assets/favicons/favicon.ico' rel='icon' type='image/x-icon'>
+
+<link href='/assets/favicons/favicon.png' rel='icon' type='image/png'>
+
+<link href='/assets/favicons/apple-touch-icon-152x152.png' rel='apple-touch-icon' sizes='152x152'>
+
+<link href='/assets/favicons/apple-touch-icon-144x144.png' rel='apple-touch-icon' sizes='144x144'>
+
+<link href='/assets/favicons/apple-touch-icon-120x120.png' rel='apple-touch-icon' sizes='120x120'>
+
+<link href='/assets/favicons/apple-touch-icon-114x114.png' rel='apple-touch-icon' sizes='114x114'>
+
+<link href='/assets/favicons/apple-touch-icon-76x76.png' rel='apple-touch-icon' sizes='76x76'>
+
+<link href='/assets/favicons/apple-touch-icon-72x72.png' rel='apple-touch-icon' sizes='72x72'>
+
+<link href='/assets/favicons/apple-touch-icon-57x57.png' rel='apple-touch-icon' sizes='57x57'>
+
+<meta content="authenticity_token" name="csrf-param" />
+
+<meta content="46hE6Igsmo1eHQ7DcJ+EHvvRcki0QOdaP7bFlIAaa4k=" name="csrf-token" />
+
+<script src="/assets/application-71b45008edccaab5232ede41db0e31cb.js"></script>
+
+<!--[if lt IE 9]>
+
+<script src="/assets/html5shiv-51269815b1791c8eef55e2d1e21fa7e7.js"></script>
+
+<![endif]-->
+
+<link href="/assets/application-ddc3edf622c6884c780e35998560632c.css" media="screen, projection" rel="stylesheet" />
+
+<link href="/assets/print-4f327abb70e825fcdc6b86fb4b6fd3e5.css" media="print" rel="stylesheet" />
+
+<link href="/assets/new-c68e1aee47435360e7c70a0fa65dc2f6.css" media="screen" rel="stylesheet" />
+
+<link href="/assets/fixes/bridge-3f5880da108e1ee2c6af3cb5b6420bfa.css" media="screen" rel="stylesheet" />
+
+<!--[if IE 7]>
+
+<link href="/assets/ie7-3692a2a2aae12b61266c0f714529a7e1.css" media="screen, projection" rel="stylesheet" />
+
+<![endif]-->
+
+<!--[if IE 8]>
+
+<link href="/assets/ie8-aa454bf9c0a9132beb2cefc3b013a1d9.css" media="screen, projection" rel="stylesheet" />
+
+<![endif]-->
+
+<!--[if lte IE 8]>
+
+<link href="/assets/fixes/lte-ie8-bridge-841a4450e8f87813dd31c34ad0e45aa6.css" media="screen" rel="stylesheet" />
+
+<![endif]-->
+
+</head>
+
+<body class='confirmations'>
+
+<!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDHMHCR"
+
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+
+<div class='oc-breaking'>
+
+<div class='oc-breaking__message'>
+
+<i class="fa fa-exclamation-circle"></i>
+
+Learn how to leverage transparent company data at scale.
+
+<a href="https://opencorporates.com/info/email-registration/">Subscribe to our emails</a>
+
+</div>
+
+</div>
+
+<header class='oc-header'>
+
+<div class='oc-header__container'>
+
+<div class='oc-header__left'>
+
+<a class="oc-header__link" href="/"><img alt="OpenCorporates" class="oc-header__logo" onerror="this.src=&quot;/assets/components/oc-header/logo-5fe8b842e394ca78ec8917154acf25d8.png&quot;; this.onerror=null;" src="/assets/components/oc-header/logo-675d5dcda47d375dfe62845605bb7c70.svg" />
+
+</a><div class='oc-header__tagline'>The Open Database Of The Corporate World</div>
+
+</div>
+
+<div class='oc-header__middle'>
+
+<div class='oc-header-search'>
+
+<form accept-charset="UTF-8" action="/search" class="oc-header-search__form js-oc-search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+
+<div class='oc-header-search__field'>
+
+<input autofocus class='oc-header-search__input js-oc-search-input' name='q' placeholder='Company name or number'>
+
+<button class='oc-header-search__button'>Search</button>
+
+</div>
+
+<div class='oc-header-search__options'>
+
+<label class='oc-header-search__option'>
+
+<input checked class='oc-header-search__radio js-oc-search-radio' data-placeholder='Company name or number' name='type' type='radio' value='companies'>
+
+Companies
+
+</label>
+
+<label class='oc-header-search__option'>
+
+<input class='oc-header-search__radio js-oc-search-radio' data-placeholder='Officer’s name' name='type' type='radio' value='officers'>
+
+Officers
+
+</label>
+
+</div>
+
+</form>
+
+</div>
+
+</div>
+
+<div class='oc-header__right'>
+
+<div class='oc-header__right__top'>
+
+<div class='oc-share-buttons'>
+
+<a class='oc-share-buttons__link oc-share-buttons__link--twitter' href='http://twitter.com/share?text=OpenCorporates :: The Open Database Of The Corporate World&amp;url=https://opencorporates.com/users/confirmation?confirmation_token=PACG4g4iEDidYZPqsrZY' onclick='javascript:window.open(this.href, &#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600&#39;);return false;'>
+
+<i class="fa fa-twitter"></i>
+
+</a>
+
+<a class='oc-share-buttons__link oc-share-buttons__link--facebook' href='http://www.facebook.com/sharer.php?u=https://opencorporates.com/users/confirmation?confirmation_token=PACG4g4iEDidYZPqsrZY' onclick='javascript:window.open(this.href, &#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600&#39;);return false;'>
+
+<i class="fa fa-facebook"></i>
+
+</a>
+
+<a class='oc-share-buttons__link oc-share-buttons__link--googleplus' href='https://plus.google.com/share?url=https://opencorporates.com/users/confirmation?confirmation_token=PACG4g4iEDidYZPqsrZY' onclick='javascript:window.open(this.href, &#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600&#39;);return false;'>
+
+<i class="fa fa-google-plus"></i>
+
+</a>
+
+<a class='oc-share-buttons__link oc-share-buttons__link--linkedin' href='http://www.linkedin.com/shareArticle?mini=true&amp;url=https://opencorporates.com/users/confirmation?confirmation_token=PACG4g4iEDidYZPqsrZY&amp;title=OpenCorporates :: The Open Database Of The Corporate World&amp;source=Open Company Data Index' onclick='javascript:window.open(this.href, &#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600&#39;);return false;'>
+
+<i class="fa fa-linkedin"></i>
+
+</a>
+
+</div>
+
+</div>
+
+<div class='oc-header__right__bottom'>
+
+<ul class='oc-user-links'>
+
+<li><a href="/users/sign_in" rel="nofollow">Log in/Sign up</a></li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+<div class='oc-header__separator'></div>
+
+</header>
+
+<div class='container plain_background' id='page_container'>
+
+<div class='oc-messages'></div>
+
+<div class='row content main_content'>
+
+<div class='span7'>
+
+<h2>Resend confirmation instructions</h2>
+
+<form accept-charset="UTF-8" action="/users/confirmation" class="new_user" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="46hE6Igsmo1eHQ7DcJ+EHvvRcki0QOdaP7bFlIAaa4k=" /></div>    <div id="error_explanation">
+
+      <h2>1 error prohibited this user from being saved:</h2>
+
+      <ul><li>Confirmation token is invalid</li></ul>
+
+    </div>
+
+<div>
+
+<label for="user_email">Email</label>
+
+<input id="user_email" name="user[email]" type="email" value="" />
+
+</div>
+
+<div><input class="btn btn-primary" name="commit" type="submit" value="Resend confirmation instructions" /></div>
+
+</form>
+
+</div>
+
+<div class='span5'>
+
+</div>
+
+</div>
+
+<div class='row prefooter'>
+
+<div class='span12'>
+
+</div>
+
+</div>
+
+</div>
+
+<footer class='oc-footer'>
+
+<div class='oc-footer__row'>
+
+<div class='oc-footer__column'>
+
+<h2 class='oc-footer__heading'>About us</h2>
+
+<ul>
+
+<li><a href="/info/about">About</a></li>
+
+<li><a href="http://blog.opencorporates.com">Blog</a></li>
+
+<li><a href="/info/team/">Team</a></li>
+
+<li><a href="/info/governance">Governance</a></li>
+
+<li><a href="https://jobs.opencorporates.com">Jobs</a></li>
+
+</ul>
+
+</div>
+
+<div class='oc-footer__column'>
+
+<h2 class='oc-footer__heading'>Using our data</h2>
+
+<ul>
+
+<li><a href="/info/our-data">Our data</a></li>
+
+<li><a href="/info/our-purpose">Our purpose</a></li>
+
+<li><a href="/legal/licence">Legal/Licence</a></li>
+
+<li><a href="/legal/user_privacy_policy">User/Cookie privacy policy</a></li>
+
+<li><a href="/legal/public_records_privacy_policy">Public records privacy policy</a></li>
+
+</ul>
+
+</div>
+
+<div class='oc-footer__column'>
+
+<h2 class='oc-footer__heading'>Help</h2>
+
+<ul>
+
+<li><a href="https://api.opencorporates.com">API Reference</a></li>
+
+<li><a href="/legal/glossary">Glossary</a></li>
+
+<li><a href="http://status.opencorporates.com">Status</a></li>
+
+</ul>
+
+</div>
+
+<div class='oc-footer__column'>
+
+<h2 class='oc-footer__heading'>Contact</h2>
+
+<ul>
+
+<li><a href="http://twitter.com/opencorporates">Twitter</a></li>
+
+<li><a href="https://medium.com/@opencorporates">Medium</a></li>
+
+<li><a href="https://eepurl.com/duayVr">Newsletter</a></li>
+
+<li><a href="/info/contact-us/">Problems with our data?</a></li>
+
+<li><a href="/legal/temporary_redaction">Temporary redaction</a></li>
+
+</ul>
+
+</div>
+
+<div class='oc-footer__column'>
+
+<h2 class='oc-footer__heading'>Impact</h2>
+
+<ul>
+
+<li><a href="http://blog.opencorporates.com/2015/05/26/opencorporates-impact-report-2014/">Impact</a></li>
+
+<li><a href="/legal/grants">Grants</a></li>
+
+</ul>
+
+</div>
+
+</div>
+
+</footer>
+
+<div id='login_dialog' style='display:hidden'></div>
+
+</body>
+
+</html>
+
